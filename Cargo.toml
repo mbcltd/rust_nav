@@ -1,0 +1,6 @@
+[package]
+name = "rust_nav"
+version = "0.1.0"
+authors = ["David Morgan-Brown <david@morgan-brown.com>"]
+
+[dependencies]
